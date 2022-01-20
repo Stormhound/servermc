@@ -1,0 +1,58 @@
+[20:22:23] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:22:23] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[20:22:24] [Worker-Main-2/INFO]: Loaded 7 recipes
+[20:22:25] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[20:22:25] [Server thread/INFO]: Loading properties
+[20:22:25] [Server thread/INFO]: This server is running Paper version git-Paper-165 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: 128691a)
+[20:22:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:22:26] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:22:26] [Server thread/INFO]: Default game type: SURVIVAL
+[20:22:26] [Server thread/INFO]: Generating keypair
+[20:22:26] [Server thread/INFO]: Starting Minecraft server on 192.168.1.2:25565
+[20:22:26] [Server thread/INFO]: Using default channel type
+[20:22:26] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[20:22:26] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[20:22:26] [Server thread/INFO]: [Skript] Loading Skript v2.6
+[20:22:26] [Server thread/INFO]: [SkQuery] Loading SkQuery v4.1.5
+[20:22:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:22:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:22:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:22:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:22:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:22:26] [Server thread/INFO]: Preparing level "world"
+[20:22:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:22:27] [Server thread/INFO]: Time elapsed: 254 ms
+[20:22:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:22:28] [Server thread/INFO]: Time elapsed: 166 ms
+[20:22:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:22:28] [Server thread/INFO]: Time elapsed: 93 ms
+[20:22:28] [Server thread/INFO]: [Skript] Enabling Skript v2.6
+[20:22:29] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] You're currently running the latest stable version of Skript.
+[20:22:34] [Server thread/INFO]: [Skript] Loaded 143127 aliases in 5927ms
+[20:22:35] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[20:22:35] [Server thread/INFO]: [SkQuery] Enabling SkQuery v4.1.5
+[20:22:35] [Server thread/INFO]: [skQuery] Locating classes from SkQuery...
+[20:22:35] [Server thread/INFO]: [skQuery] Beginning to process a total of 121 from SkQuery
+[20:22:35] [Server thread/INFO]: [skQuery] Out of 121 classes, 121 classes were loaded from SkQuery
+[20:22:35] [Server thread/INFO]: Running delayed init tasks
+[20:22:35] [Server thread/INFO]: [Skript] Loading variables...
+[20:22:35] [Server thread/INFO]: [Skript] Loaded 42 variables in 0.0 seconds
+[20:22:35] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[20:22:35] [Server thread/WARN]: [Skript] No scripts were found, maybe you should write some ;) (config.sk, line 210: databases:')
+[20:22:35] [Server thread/INFO]: [Skript] Finished loading.
+[20:22:35] [Server thread/INFO]: Done (10.149s)! For help, type "help"
+[20:22:35] [Server thread/INFO]: Timings Reset
+[20:23:20] [User Authenticator #1/INFO]: UUID of player RodBas is 5d2659bc-ac33-3383-b605-3aa6f3b4d2b5
+[20:23:20] [Server thread/INFO]: RodBas joined the game
+[20:23:20] [Server thread/INFO]: RodBas[/192.168.1.2:63128] logged in with entity id 245 at ([world]30.243775975904736, 69.0, -19.248352026298164)
+[20:23:26] [Server thread/INFO]: RodBas lost connection: Disconnected
+[20:23:26] [Server thread/INFO]: RodBas left the game
+[20:23:32] [User Authenticator #1/INFO]: UUID of player RodBas is 5d2659bc-ac33-3383-b605-3aa6f3b4d2b5
+[20:23:32] [Server thread/INFO]: RodBas joined the game
+[20:23:32] [Server thread/INFO]: RodBas[/192.168.1.2:63133] logged in with entity id 265 at ([world]30.97608663254245, 69.0, -14.498989863114954)
+[20:23:51] [Server thread/INFO]: RodBas lost connection: Disconnected
+[20:23:51] [Server thread/INFO]: RodBas left the game
+[20:23:56] [Server thread/INFO]: Stopping server
+[20:23:56] [Server thread/INFO]: Saving players
+[20:23:56] [Server thread/INFO]: Saving worlds
+[20:23:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld

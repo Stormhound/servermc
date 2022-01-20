@@ -1,0 +1,48 @@
+# === Skript's variable storage ===
+# Please do not modify this file manually!
+#
+# version: 2.6
+
+adiamond.name, string, 8018C2A7385BC2A7654E6F7420416374697661746564C2A7385D
+aemerald.name, string, 8018C2A7385BC2A7654E6F7420416374697661746564C2A7385D
+agold.name, string, 8018C2A7385BC2A7654E6F7420416374697661746564C2A7385D
+airon.name, string, 8018C2A7385BC2A7654E6F7420416374697661746564C2A7385D
+alapis.name, string, 8018C2A7385BC2A7654E6F7420416374697661746564C2A7385D
+anether.name, string, 8018C2A7385BC2A7654E6F7420416374697661746564C2A7385D
+aredstone.name, string, 8018C2A7385BC2A7654E6F7420416374697661746564C2A7385D
+autodebris.name, string, 8018C2A7385BC2A7654E6F7420416374697661746564C2A7385D
+autodiamond.name, string, 8018C2A7385BC2A7654E6F7420416374697661746564C2A7385D
+autoemerald.name, string, 8018C2A7385BC2A7654E6F7420416374697661746564C2A7385D
+autogold.name, string, 8018C2A7385BC2A7654E6F7420416374697661746564C2A7385D
+autoiron.name, string, 8018C2A7385BC2A7654E6F7420416374697661746564C2A7385D
+autokick.name, string, 8018C2A7385BC2A7654E6F7420416374697661746564C2A7385D
+con.name, string, 8018C2A7385BC2A7654E6F7420416374697661746564C2A7385D
+counter.name, string, 8018C2A7385BC2A7654E6F7420416374697661746564C2A7385D
+detect_debris_amount_mined_in_x_sec, long, 0000000000000007
+detect_diamond_amount_mined_in_x_sec, long, 000000000000000D
+detect_emerald_amount_mined_in_x_sec, long, 0000000000000007
+detect_gold_amount_mined_in_x_sec, long, 0000000000000019
+detect_iron_amount_mined_in_x_sec, long, 000000000000001E
+diamond_amount_mined_in_x_sec, long, 0000000000000005
+dore.rodbas, long, 0000000000000000
+emerald_amount_mined_in_x_sec, long, 0000000000000003
+eore.rodbas, long, 0000000000000000
+gold_amount_mined_in_x_sec, long, 000000000000000F
+gore.rodbas, long, 0000000000000000
+iore.rodbas, long, 0000000000000000
+iron_amount_mined_in_x_sec, long, 0000000000000014
+lapis_amount_mined_in_x_sec, long, 000000000000000B
+lore.rodbas, long, 0000000000000000
+nether_amount_mined_in_x_sec, long, 0000000000000003
+nore.rodbas, long, 0000000000000000
+obf.name, string, 8018C2A7385BC2A7654E6F7420416374697661746564C2A7385D
+offdore.rodbas, long, 0000000000000000
+offeore.rodbas, long, 0000000000000000
+offgore.rodbas, long, 0000000000000000
+offiore.rodbas, long, 0000000000000000
+offnore.rodbas, long, 0000000000000000
+orealerts.name, string, 8018C2A7385BC2A7654E6F7420416374697661746564C2A7385D
+redstone_amount_mined_in_x_sec, long, 0000000000000010
+rore.rodbas, long, 0000000000000000
+timer, long, 000000000000001E
+

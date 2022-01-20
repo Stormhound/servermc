@@ -1,0 +1,1 @@
+java -Xms7168M -Xmx7G -jar PaperSpigot-latest.jar
